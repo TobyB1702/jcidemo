@@ -9,5 +9,10 @@ public class Calculator {
 		return a-b;
 	}
 	
+
+	public String helloThere(String hellothere) {
+		return hellothere;
+	}
+	
 }
 
